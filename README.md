@@ -12,7 +12,7 @@ In order to reproduce the results and make our techniques easier for more resear
   
 'DFE-DL' include the code for training and testing our ensemble model. 
 
-Also, we provided our high-quality RE dataset for other scientists for more researches.
+Also, we provided our high-quality RE dataset for other scientists to do more research.
 
 Please modify the paths in code files according to your own directory and then you can run them to process data and construct prediction models.
 
